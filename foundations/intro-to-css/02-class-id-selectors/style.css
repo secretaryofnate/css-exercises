@@ -1,0 +1,24 @@
+/* styles sheet for exercise 2 */
+
+/* odd numbered elements - class */
+.odd {
+    background-color: rgb(246, 93, 136);
+    font-family: Verdana, sans-serif;
+}
+
+/* second element - id */
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+ /* third element */
+#n3 {
+    font-size: 24px;
+}
+
+/* fourth element - id */
+#n4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
