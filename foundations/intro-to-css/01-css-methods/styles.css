@@ -1,0 +1,10 @@
+/* styles.css for exercise 1 */
+
+/* this is an example of external style */
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
